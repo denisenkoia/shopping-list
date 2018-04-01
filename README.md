@@ -1,1 +1,1 @@
-# webpack-template
+# shopping list
